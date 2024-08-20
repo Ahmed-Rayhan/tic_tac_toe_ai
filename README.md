@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a simple command-line Tic-Tac-Toe game implemented in C++. You can play against the computer (AI) or with another player. The AI uses basic strategies to make its moves, making the game more challenging.
+This is a simple command-line Tic-Tac-Toe game implemented in C++. You can play against the computer (AI). The AI uses basic strategies to make its moves, making the game more challenging.
 
 ## Table of Contents
 - [How to Play](#how-to-play)
