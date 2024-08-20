@@ -47,7 +47,7 @@ The AI uses a simple strategy to determine its moves:
 ## How to Run
 
 1. **Clone the Repository**:
-    ```bash
+```bash
     git clone https://github.com/ahmed-rayhan/tic_tac_toe_ai.git
     cd tic_tac_toe_ai
     ```
